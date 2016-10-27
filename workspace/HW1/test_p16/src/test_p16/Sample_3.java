@@ -1,0 +1,10 @@
+package test_p16;
+
+public class Sample_3 {
+	public static void main(String[] args)
+	{
+		System.out.println('A');
+		System.out.println("Åwªï¨Ï¥Îjava!");
+		System.out.println(123);
+	}
+}
